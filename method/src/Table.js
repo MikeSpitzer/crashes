@@ -26,7 +26,7 @@ export default function Table({ columns, data }) {
     setFilterInput(value);
   };
 
-  // Render the UI for your table
+ 
   return (
     <>
       <input
